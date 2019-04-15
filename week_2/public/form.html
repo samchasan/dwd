@@ -1,0 +1,35 @@
+<doctype html>
+
+<head>
+  <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js'>></script>
+  <script src='formHandling.js'></script>
+</head>
+<body>
+  <h1> What is your favorite band? </h1>
+  <h2> GET</h2>
+
+  <form id='form' method='GET' action='/processit'>
+  <div>
+    <label for='bandname'>Band Name:</label>
+    <input type='text' id='bandname' name='bandname'>
+  </div>
+      <div class='button'>
+      <button type='submit'>Submit</button>
+    </div>
+
+  </form>
+
+  <h1> What is your favorite band? </h1>
+<h2> POST</h2>
+  <form id='form' method='POST' action='/processit'>
+  <div>
+    <label for='bandname'>Band Name:</label>
+    <input type='text' id='bandname' name='bandname'>
+  </div>
+      <div class='button'>
+      <button type='submit'>Submit</button>
+    </div>
+
+  </form>
+
+  </body>
