@@ -1,6 +1,6 @@
 partA-partC use the form labelled GET in public/form.html
 
-for partD please refer to (my thesis project)[https://github.com/samchasan/thesis_app]
+for partD please refer to [my thesis project](https://github.com/samchasan/thesis_app)
 
 partBpost uses the form labelled POST in public/form.html
 
