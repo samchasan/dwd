@@ -2,7 +2,7 @@ My thesis is a dynamic web development project. I am using Node, Express, Heroku
 
 The project can be found at https://github.com/samchasan/thesis_app
 
-It is also live at chaffmap.com
+It is also live at  https://chaffmap.com
 
 I have many forms - from signing up, to loggin in, to adding and updating projects and other things. And through this process it has taken me about 8 weeks to fully grasp many of the fundamental elements of what I was doing. But recently I feel like I finally grasp the hang of it, and have finally passed the hump of understanding ‘why’ and am now asking often ‘how.’
 
